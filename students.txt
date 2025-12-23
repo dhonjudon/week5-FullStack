@@ -1,1 +1,4 @@
 Tushar|dhonjutushar10@gmail.com|HTML
+Tushar|np03cs4a240155@heraldcollege.edu.np|php
+Tushar|np03cs4a240155@heraldcollege.edu.np|php,html,css
+Prajwal|np03cs4a240155@heraldcollege.edu.np|php,html,css
